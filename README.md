@@ -1,3 +1,9 @@
+## Age Specific Fertility Rate (ASFR) in India and China
+
+- Svelte 
+- D3
+
+### Clone this repo and install dependencies or start from scratch by creating a new svelte app
 
 ### To create a new svelte app
 
