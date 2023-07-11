@@ -1,5 +1,5 @@
 
-# To create a new svelte app
+### To create a new svelte app
 
 ```sh
 npx degit sveltejs/template svelte-app
@@ -8,9 +8,9 @@ cd svelte-app
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 
-## Get started
+### Get started
 
-Install the dependencies:
+Install the dependencies with:
 
 ```sh
 npm install
